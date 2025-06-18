@@ -1,7 +1,7 @@
 name = "Gershgorin"
 uuid = "24e2f6b0-dc6e-48a5-a23f-118d347caa96"
 authors = ["Vivek Gopalakrishnan"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
